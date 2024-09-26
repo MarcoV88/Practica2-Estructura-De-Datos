@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="EJEMPLOS2" Database="" Version="10000">
+  <Project Name="PasoPorReferencia" Path="PasoPorReferencia/PasoPorReferencia.project" Active="No"/>
+  <Project Name="PasoDeArgumentos" Path="PasoDeArgumentos/PasoDeArgumentos.project" Active="No"/>
+  <Project Name="EJEMPLO12" Path="EJEMPLO12/EJEMPLO12.project" Active="No"/>
+  <Project Name="EJEMPLO9" Path="EJEMPLO9/EJEMPLO9.project" Active="No"/>
+  <Project Name="EJEMPLO11" Path="EJEMPLO11/EJEMPLO11.project" Active="No"/>
+  <Project Name="EJEMPLO10" Path="EJEMPLO10/EJEMPLO10.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="PasoPorReferencia" ConfigName="Debug"/>
+      <Project Name="PasoDeArgumentos" ConfigName="Debug"/>
+      <Project Name="EJEMPLO12" ConfigName="Debug"/>
+      <Project Name="EJEMPLO9" ConfigName="Debug"/>
+      <Project Name="EJEMPLO11" ConfigName="Debug"/>
+      <Project Name="EJEMPLO10" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="PasoPorReferencia" ConfigName="Release"/>
+      <Project Name="PasoDeArgumentos" ConfigName="Release"/>
+      <Project Name="EJEMPLO12" ConfigName="Release"/>
+      <Project Name="EJEMPLO9" ConfigName="Release"/>
+      <Project Name="EJEMPLO11" ConfigName="Release"/>
+      <Project Name="EJEMPLO10" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

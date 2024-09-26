@@ -1,0 +1,25 @@
+[{
+  "file": "C:\\Users\\Marco V\\Desktop\\ESTRUCTURA_DATOS\\EJEMPLOS2\\EJEMPLO10\\main.cpp",
+  "directory": "C:\\Users\\Marco V\\Desktop\\ESTRUCTURA_DATOS\\EJEMPLOS2\\EJEMPLO10",
+  "command": "clang++ -c \"C:\\Users\\Marco V\\Desktop\\ESTRUCTURA_DATOS\\EJEMPLOS2\\EJEMPLO10\\main.cpp\" -o \"C:\\Users\\Marco V\\Desktop\\ESTRUCTURA_DATOS\\EJEMPLOS2\\EJEMPLO10\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Marco V\\Desktop\\ESTRUCTURA_DATOS\\EJEMPLOS2\\PasoPorReferencia\\main.cpp",
+  "directory": "C:\\Users\\Marco V\\Desktop\\ESTRUCTURA_DATOS\\EJEMPLOS2\\PasoPorReferencia",
+  "command": "clang++ -c \"C:\\Users\\Marco V\\Desktop\\ESTRUCTURA_DATOS\\EJEMPLOS2\\PasoPorReferencia\\main.cpp\" -o \"C:\\Users\\Marco V\\Desktop\\ESTRUCTURA_DATOS\\EJEMPLOS2\\PasoPorReferencia\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Marco V\\Desktop\\ESTRUCTURA_DATOS\\EJEMPLOS2\\EJEMPLO11\\main.cpp",
+  "directory": "C:\\Users\\Marco V\\Desktop\\ESTRUCTURA_DATOS\\EJEMPLOS2\\EJEMPLO11",
+  "command": "clang++ -c \"C:\\Users\\Marco V\\Desktop\\ESTRUCTURA_DATOS\\EJEMPLOS2\\EJEMPLO11\\main.cpp\" -o \"C:\\Users\\Marco V\\Desktop\\ESTRUCTURA_DATOS\\EJEMPLOS2\\EJEMPLO11\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Marco V\\Desktop\\ESTRUCTURA_DATOS\\EJEMPLOS2\\EJEMPLO9\\main.cpp",
+  "directory": "C:\\Users\\Marco V\\Desktop\\ESTRUCTURA_DATOS\\EJEMPLOS2\\EJEMPLO9",
+  "command": "clang++ -c \"C:\\Users\\Marco V\\Desktop\\ESTRUCTURA_DATOS\\EJEMPLOS2\\EJEMPLO9\\main.cpp\" -o \"C:\\Users\\Marco V\\Desktop\\ESTRUCTURA_DATOS\\EJEMPLOS2\\EJEMPLO9\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Marco V\\Desktop\\ESTRUCTURA_DATOS\\EJEMPLOS2\\EJEMPLO12\\main.cpp",
+  "directory": "C:\\Users\\Marco V\\Desktop\\ESTRUCTURA_DATOS\\EJEMPLOS2\\EJEMPLO12",
+  "command": "clang++ -c \"C:\\Users\\Marco V\\Desktop\\ESTRUCTURA_DATOS\\EJEMPLOS2\\EJEMPLO12\\main.cpp\" -o \"C:\\Users\\Marco V\\Desktop\\ESTRUCTURA_DATOS\\EJEMPLOS2\\EJEMPLO12\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Marco V\\Desktop\\ESTRUCTURA_DATOS\\EJEMPLOS2\\PasoDeArgumentos\\main.cpp",
+  "directory": "C:\\Users\\Marco V\\Desktop\\ESTRUCTURA_DATOS\\EJEMPLOS2\\PasoDeArgumentos",
+  "command": "clang++ -c \"C:\\Users\\Marco V\\Desktop\\ESTRUCTURA_DATOS\\EJEMPLOS2\\PasoDeArgumentos\\main.cpp\" -o \"C:\\Users\\Marco V\\Desktop\\ESTRUCTURA_DATOS\\EJEMPLOS2\\PasoDeArgumentos\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
